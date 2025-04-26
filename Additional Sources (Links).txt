@@ -1,0 +1,23 @@
+OpenFermion (good for lattice structure building)
+-------------------------------------------------
+https://quantumai.google/openfermion
+
+HI-VQE -- IBM
+-------------
+https://docs.quantum.ibm.com/guides/qunova-chemistry
+
+vqe-tutorials (GitHub)
+----------------------
+https://github.com/smfarzaneh/vqe-tutorials/tree/master
+
+Qiskit Nature documentation
+---------------------------
+https://qiskit-community.github.io/qiskit-nature/#
+
+vqe-molecules (guthub, qiskit textbook)
+---------------------------------------
+https://github.com/Qiskit/textbook/blob/main/notebooks/ch-applications/vqe-molecules.ipynb
+
+Medium Article
+--------------
+https://quantumpedia.uk/quantum-algorithm-7-variational-quantum-eigensolver-algorithm-for-quantum-chemistry-23a4f9aa73b3
